@@ -7,4 +7,5 @@ There is also an option to write ticker values. Examples for tickers - AA, AAP, 
 The plot which you see does not display the actual value, in fact it shows you the value change with respect to the starting date. \
 In the table you can see the absolute values of past 6 days.
 
+Online platform for running R code - Posit cloud
 
